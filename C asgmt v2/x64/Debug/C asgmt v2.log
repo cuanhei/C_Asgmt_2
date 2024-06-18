@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(545,4): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(547,16): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(547,16): warning C4024: 'stringUpper': different types for formal and actual parameter 1
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(1713,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(2038,7): warning C4101: 'yesNo': unreferenced local variable
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(2463,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'Feedback'
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(2778,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(2834,9): warning C4101: 'ticketToView': unreferenced local variable
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(3044,72): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(3047,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(3060,59): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\C asgmt v2\C asgmt v2\main.c(3063,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  C asgmt v2.vcxproj -> C:\Users\User\Desktop\C asgmt v2\x64\Debug\C asgmt v2.exe
