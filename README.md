@@ -1,7 +1,21 @@
-# C_Asgmt_2
-C programming semester 3 assignment
+**Train Ticketing System In C language**
+```bash
+This is a console project made in C language.
+```
 
-This is a console C project about Train Ticketing System
+**Features**
+- Intro
+  -
+  Showing cool animation when the System executed.
+- Login
+  -
+  - Admin
+  - Member
+- Register
+  -
+  - Member
+- Help
+  -
+  It will shows how to use the System.
 
-To run the program, download this project as a zip file and then extract it
-open the C asgmt v2.sln with visual studio code and then click on RUN
+
