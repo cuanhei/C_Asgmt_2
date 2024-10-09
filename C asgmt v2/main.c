@@ -261,7 +261,7 @@ void color(char colour[10]) {
 		printf("\033[0;37m");
 	//printf("\033[0;30m");
 	else
-		printf("\033[0;37m"); //default white
+		printf("\033[0;37m"); //defaultÂ white
 }
 void loadDatabase() {
 
@@ -635,7 +635,7 @@ void regMember() {
 
 	if (confirm == 'Y') {
 
-		////////////////////////////////
+	    ////////////////////////////////
 	   ////// CREATED NEW MEMBER //////
 	  ////////////////////////////////
 
@@ -1469,7 +1469,7 @@ void regStaff() {
 
 	if (confirm == 'Y') {
 
-		///////////////////////////////
+	    ///////////////////////////////
 	   ////// CREATED NEW STAFF //////
 	  ///////////////////////////////
 		staff.userDetails.dateReg = getCurrentDate();
@@ -1484,7 +1484,7 @@ void regStaff() {
 	}
 	else {
 
-		////////////////////////////
+	    ////////////////////////////
 	   ////////// FAILED //////////
 	  ////////////////////////////
 
@@ -2696,7 +2696,7 @@ void buySeat(Ticket buyTicket, char bookedTicket[27][3]) {
 			_sleep(PAUSE);
 		}
 		else {
-				/////////////
+			    /////////////
 			   /// Valid ///
 			  /////////////
 			  
